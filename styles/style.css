@@ -197,6 +197,7 @@ body {
     list-style: none;
     flex-basis: 334px;
     min-height: 563px;
+    /*flex-grow: 1; */
     
 }
 
