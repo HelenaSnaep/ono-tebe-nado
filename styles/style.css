@@ -269,7 +269,7 @@ body {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 24px;
-    margin: 35px 24px 155px 24px;
+    margin: 35px 24px 159px 24px;
 }
 
 .about__logo {
